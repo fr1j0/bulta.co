@@ -3,6 +3,9 @@ module.exports = {
     output: {
         html: {
             template: './src/index.ejs'
+        },
+        fileNames: {
+            image: 'assets/images/[name].[ext]'
         }
     }
 }
