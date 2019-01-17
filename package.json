@@ -1,0 +1,29 @@
+{
+    "name": "bulta.co",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "poi --prod",
+        "dev": "poi --serve",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fr1j0/bulta.co.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fr1j0/bulta.co/issues"
+    },
+    "homepage": "https://github.com/fr1j0/bulta.co#readme",
+    "dependencies": {
+        "pixi.js": "^4.8.5",
+        "poi": "^12.1.5"
+    },
+    "devDependencies": {
+        "stylus": "^0.54.5",
+        "stylus-loader": "^3.0.2"
+    }
+}
