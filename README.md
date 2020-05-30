@@ -1,5 +1,7 @@
 # bulta.co
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9899e887-629f-44c9-8904-9e4c89b77494/deploy-status)](https://app.netlify.com/sites/bultaco/deploys)
+
 ## CLI Commands
 *   `npm install`: Installs dependencies
 
